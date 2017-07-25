@@ -1,0 +1,19 @@
+{
+  "name": "visualprogramming",
+  "version": "1.0.0",
+  "description": "visual programming for kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougneves/visualprogramming.git"
+  },
+  "author": "dougneves@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dougneves/visualprogramming/issues"
+  },
+  "homepage": "https://github.com/dougneves/visualprogramming#readme"
+}
